@@ -1,0 +1,15 @@
+C:\Users\Amazon\source\repos\ConexaoAD\ConexaoAD\bin\Debug\ConexaoAD.exe.config
+C:\Users\Amazon\source\repos\ConexaoAD\ConexaoAD\bin\Debug\ConexaoAD.exe
+C:\Users\Amazon\source\repos\ConexaoAD\ConexaoAD\bin\Debug\ConexaoAD.pdb
+C:\Users\Amazon\source\repos\ConexaoAD\ConexaoAD\obj\Debug\ConexaoAD.csproj.AssemblyReference.cache
+C:\Users\Amazon\source\repos\ConexaoAD\ConexaoAD\obj\Debug\ConexaoAD.csproj.CoreCompileInputs.cache
+C:\Users\Amazon\source\repos\ConexaoAD\ConexaoAD\obj\Debug\ConexaoAD.exe
+C:\Users\Amazon\source\repos\ConexaoAD\ConexaoAD\obj\Debug\ConexaoAD.pdb
+C:\Users\Amazon\Desktop\ConexaoAD\ConexaoAD\bin\Debug\ConexaoAD.exe.config
+C:\Users\Amazon\Desktop\ConexaoAD\ConexaoAD\bin\Debug\ConexaoAD.exe
+C:\Users\Amazon\Desktop\ConexaoAD\ConexaoAD\bin\Debug\ConexaoAD.pdb
+C:\Users\Amazon\Desktop\ConexaoAD\ConexaoAD\obj\Debug\ConexaoAD.csproj.AssemblyReference.cache
+C:\Users\Amazon\Desktop\ConexaoAD\ConexaoAD\obj\Debug\ConexaoAD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amazon\Desktop\ConexaoAD\ConexaoAD\obj\Debug\ConexaoAD.csproj.CoreCompileInputs.cache
+C:\Users\Amazon\Desktop\ConexaoAD\ConexaoAD\obj\Debug\ConexaoAD.exe
+C:\Users\Amazon\Desktop\ConexaoAD\ConexaoAD\obj\Debug\ConexaoAD.pdb
